@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="markov.png">
+<SubTexture name="card0000" x="0" y="296" width="496" height="147" frameX="-71" frameY="-118" frameWidth="640" frameHeight="360" />
+<SubTexture name="card0001" x="498" y="0" width="496" height="147" frameX="-71" frameY="-118" frameWidth="640" frameHeight="360" />
+<SubTexture name="card0002" x="0" y="443" width="497" height="147" frameX="-71" frameY="-118" frameWidth="640" frameHeight="360" />
+<SubTexture name="card0003" x="497" y="443" width="497" height="147" frameX="-71" frameY="-118" frameWidth="640" frameHeight="360" />
+<SubTexture name="card0004" x="0" y="0" width="498" height="148" frameX="-71" frameY="-118" frameWidth="640" frameHeight="360" />
+<SubTexture name="card0005" x="0" y="148" width="498" height="148" frameX="-71" frameY="-118" frameWidth="640" frameHeight="360" />
+</TextureAtlas>

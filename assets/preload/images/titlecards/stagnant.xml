@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stagnant.png">
+<SubTexture name="card0000" x="0" y="0" width="563" height="139" frameX="-37" frameY="-117" frameWidth="640" frameHeight="360" />
+<SubTexture name="card0001" x="0" y="139" width="563" height="139" frameX="-37" frameY="-117" frameWidth="640" frameHeight="360" />
+<SubTexture name="card0002" x="0" y="278" width="562" height="139" frameX="-37" frameY="-117" frameWidth="640" frameHeight="360" />
+<SubTexture name="card0003" x="0" y="417" width="562" height="139" frameX="-37" frameY="-117" frameWidth="640" frameHeight="360" />
+<SubTexture name="card0004" x="563" y="0" width="562" height="139" frameX="-37" frameY="-116" frameWidth="640" frameHeight="360" />
+<SubTexture name="card0005" x="563" y="139" width="562" height="139" frameX="-37" frameY="-116" frameWidth="640" frameHeight="360" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="home.png">
+<SubTexture name="card0000" x="0" y="0" width="315" height="125" frameX="-162" frameY="-118" frameWidth="640" frameHeight="360" />
+<SubTexture name="card0001" x="0" y="125" width="314" height="124" frameX="-162" frameY="-118" frameWidth="640" frameHeight="360" />
+<SubTexture name="card0002" x="314" y="125" width="317" height="124" frameX="-161" frameY="-118" frameWidth="640" frameHeight="360" />
+<SubTexture name="card0003" x="0" y="249" width="317" height="124" frameX="-161" frameY="-118" frameWidth="640" frameHeight="360" />
+<SubTexture name="card0004" x="315" y="0" width="316" height="125" frameX="-161" frameY="-118" frameWidth="640" frameHeight="360" />
+<SubTexture name="card0005" x="0" y="373" width="316" height="124" frameX="-161" frameY="-118" frameWidth="640" frameHeight="360" />
+</TextureAtlas>
