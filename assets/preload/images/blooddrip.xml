@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- OPTIMIZADO POR NOCTROX GATO -->
+<TextureAtlas imagePath="blooddrip">
+    <SubTexture name="blood0000" x="0" y="0" width="14" height="16" frameWidth="500" frameHeight="500" frameX="-244" frameY="-54"/>
+    <SubTexture name="blood0001" x="15" y="0" width="52" height="54" frameWidth="500" frameHeight="500" frameX="-224" frameY="-42"/>
+    <SubTexture name="blood0002" x="68" y="0" width="72" height="83" frameWidth="500" frameHeight="500" frameX="-209" frameY="-32"/>
+    <SubTexture name="blood0003" x="141" y="0" width="80" height="89" frameWidth="500" frameHeight="500" frameX="-206" frameY="-28"/>
+    <SubTexture name="blood0004" x="222" y="0" width="89" height="93" frameWidth="500" frameHeight="500" frameX="-199" frameY="-26"/>
+    <SubTexture name="blood0005" x="312" y="0" width="91" height="95" frameWidth="500" frameHeight="500" frameX="-198" frameY="-24"/>
+    <SubTexture name="blood0006" x="404" y="0" width="93" height="97" frameWidth="500" frameHeight="500" frameX="-197" frameY="-23"/>
+    <SubTexture name="blood0007" x="498" y="0" width="93" height="133" frameWidth="500" frameHeight="500" frameX="-197" frameY="-23"/>
+    <SubTexture name="blood0008" x="592" y="0" width="93" height="201" frameWidth="500" frameHeight="500" frameX="-197" frameY="-23"/>
+    <SubTexture name="blood0009" x="686" y="0" width="94" height="249" frameWidth="500" frameHeight="500" frameX="-196" frameY="-23"/>
+    <SubTexture name="blood0010" x="781" y="0" width="93" height="284" frameWidth="500" frameHeight="500" frameX="-197" frameY="-23"/>
+    <SubTexture name="blood0011" x="875" y="0" width="94" height="310" frameWidth="500" frameHeight="500" frameX="-196" frameY="-23"/>
+    <SubTexture name="blood0012" x="970" y="0" width="94" height="332" frameWidth="500" frameHeight="500" frameX="-196" frameY="-23"/>
+    <SubTexture name="blood0013" x="0" y="342" width="93" height="344" frameWidth="500" frameHeight="500" frameX="-197" frameY="-23"/>
+    <SubTexture name="blood0014" x="94" y="342" width="93" height="358" frameWidth="500" frameHeight="500" frameX="-197" frameY="-23"/>
+    <SubTexture name="blood0015" x="188" y="342" width="93" height="370" frameWidth="500" frameHeight="500" frameX="-197" frameY="-23"/>
+    <SubTexture name="blood0016" x="282" y="342" width="93" height="378" frameWidth="500" frameHeight="500" frameX="-197" frameY="-23"/>
+    <SubTexture name="blood0017" x="376" y="342" width="93" height="388" frameWidth="500" frameHeight="500" frameX="-197" frameY="-23"/>
+    <SubTexture name="blood0018" x="470" y="342" width="93" height="394" frameWidth="500" frameHeight="500" frameX="-197" frameY="-23"/>
+    <SubTexture name="blood0019" x="564" y="342" width="93" height="397" frameWidth="500" frameHeight="500" frameX="-197" frameY="-23"/>
+    <SubTexture name="blood0020" x="658" y="342" width="93" height="399" frameWidth="500" frameHeight="500" frameX="-197" frameY="-23"/>
+    <SubTexture name="blood0021" x="752" y="342" width="93" height="401" frameWidth="500" frameHeight="500" frameX="-197" frameY="-23"/>
+    <SubTexture name="blood0022" x="846" y="342" width="93" height="402" frameWidth="500" frameHeight="500" frameX="-197" frameY="-23"/>
+    <SubTexture name="blood0023" x="940" y="342" width="93" height="402" frameWidth="500" frameHeight="500" frameX="-197" frameY="-23"/>
+    <SubTexture name="gone0000" x="1034" y="342" width="1" height="1" frameWidth="1" frameHeight="1" frameX="0" frameY="0"/>
+</TextureAtlas>
