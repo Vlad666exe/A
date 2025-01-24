@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- OPTIMIZADO POR NOCTROX GATO -->
+<TextureAtlas imagePath="HAPPYBoyFriend_Assets">
+    <SubTexture name="BF NOTE DOWN MISS0000" x="0" y="0" width="166" height="164" frameWidth="192" frameHeight="197" frameX="0" frameY="-33"/>
+    <SubTexture name="BF NOTE DOWN0000" x="167" y="0" width="183" height="197" frameWidth="197" frameHeight="204" frameX="0" frameY="-7"/>
+    <SubTexture name="BF NOTE DOWN0001" x="351" y="0" width="184" height="194" frameWidth="197" frameHeight="204" frameX="0" frameY="-10"/>
+    <SubTexture name="BF NOTE DOWN0002" x="536" y="0" width="180" height="200" frameWidth="197" frameHeight="204" frameX="-1" frameY="-4"/>
+    <SubTexture name="BF NOTE DOWN0003" x="717" y="0" width="181" height="197" frameWidth="197" frameHeight="204" frameX="-1" frameY="-7"/>
+    <SubTexture name="BF NOTE DOWN0004" x="899" y="0" width="180" height="200" frameWidth="197" frameHeight="204" frameX="-1" frameY="-4"/>
+    <SubTexture name="BF NOTE DOWN0005" x="0" y="210" width="180" height="203" frameWidth="197" frameHeight="204" frameX="-2" frameY="-1"/>
+    <SubTexture name="BF NOTE LEFT MISS0000" x="181" y="210" width="165" height="185" frameWidth="219" frameHeight="211" frameX="0" frameY="-26"/>
+    <SubTexture name="BF NOTE LEFT0000" x="347" y="210" width="215" height="206" frameWidth="219" frameHeight="211" frameX="0" frameY="-4"/>
+    <SubTexture name="BF NOTE LEFT0001" x="563" y="210" width="209" height="210" frameWidth="219" frameHeight="211" frameX="-2" frameY="0"/>
+    <SubTexture name="BF NOTE LEFT0002" x="773" y="210" width="210" height="206" frameWidth="219" frameHeight="211" frameX="-6" frameY="-4"/>
+    <SubTexture name="BF NOTE LEFT0003" x="0" y="430" width="211" height="209" frameWidth="219" frameHeight="211" frameX="-8" frameY="-1"/>
+    <SubTexture name="BF NOTE LEFT0004" x="212" y="430" width="209" height="206" frameWidth="219" frameHeight="211" frameX="-8" frameY="-4"/>
+    <SubTexture name="BF NOTE LEFT0005" x="422" y="430" width="205" height="202" frameWidth="219" frameHeight="211" frameX="-8" frameY="-9"/>
+    <SubTexture name="BF NOTE RIGHT MISS0000" x="628" y="430" width="192" height="209" frameWidth="193" frameHeight="221" frameX="-1" frameY="-2"/>
+    <SubTexture name="BF NOTE RIGHT0000" x="821" y="430" width="192" height="220" frameWidth="193" frameHeight="221" frameX="0" frameY="-1"/>
+    <SubTexture name="BF NOTE RIGHT0001" x="0" y="660" width="193" height="221" frameWidth="193" frameHeight="221" frameX="0" frameY="0"/>
+    <SubTexture name="BF NOTE RIGHT0002" x="194" y="660" width="187" height="215" frameWidth="193" frameHeight="221" frameX="0" frameY="-6"/>
+    <SubTexture name="BF NOTE RIGHT0003" x="382" y="660" width="187" height="217" frameWidth="193" frameHeight="221" frameX="0" frameY="-4"/>
+    <SubTexture name="BF NOTE RIGHT0004" x="570" y="660" width="185" height="215" frameWidth="193" frameHeight="221" frameX="0" frameY="-6"/>
+    <SubTexture name="BF NOTE RIGHT0005" x="756" y="660" width="184" height="210" frameWidth="193" frameHeight="221" frameX="0" frameY="-11"/>
+    <SubTexture name="BF NOTE UP MISS0000" x="941" y="660" width="158" height="226" frameWidth="167" frameHeight="233" frameX="0" frameY="-7"/>
+    <SubTexture name="BF NOTE UP0000" x="0" y="896" width="165" height="230" frameWidth="167" frameHeight="233" frameX="-1" frameY="-3"/>
+    <SubTexture name="BF NOTE UP0001" x="166" y="896" width="161" height="233" frameWidth="167" frameHeight="233" frameX="-3" frameY="0"/>
+    <SubTexture name="BF NOTE UP0002" x="328" y="896" width="165" height="224" frameWidth="167" frameHeight="233" frameX="0" frameY="-9"/>
+    <SubTexture name="BF NOTE UP0003" x="494" y="896" width="163" height="227" frameWidth="167" frameHeight="233" frameX="-2" frameY="-6"/>
+    <SubTexture name="BF NOTE UP0004" x="658" y="896" width="164" height="224" frameWidth="167" frameHeight="233" frameX="-2" frameY="-9"/>
+    <SubTexture name="BF idle dance0000" x="823" y="896" width="199" height="211" frameWidth="220" frameHeight="214" frameX="-6" frameY="-2"/>
+</TextureAtlas>

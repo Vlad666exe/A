@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- OPTIMIZADO POR NOCTROX GATO -->
+<TextureAtlas imagePath="DDLCGF_ass_sets">
+    <SubTexture name="GF Dancing Beat0000" x="0" y="0" width="351" height="317" frameWidth="351" frameHeight="324" frameX="0" frameY="-7"/>
+    <SubTexture name="GF Dancing Beat0001" x="352" y="0" width="350" height="317" frameWidth="351" frameHeight="324" frameX="0" frameY="-7"/>
+    <SubTexture name="GF Dancing Beat0002" x="703" y="0" width="350" height="318" frameWidth="351" frameHeight="324" frameX="0" frameY="-6"/>
+    <SubTexture name="GF Dancing Beat0003" x="1054" y="0" width="350" height="318" frameWidth="351" frameHeight="324" frameX="0" frameY="-6"/>
+    <SubTexture name="GF Dancing Beat0004" x="1405" y="0" width="350" height="319" frameWidth="351" frameHeight="324" frameX="0" frameY="-5"/>
+    <SubTexture name="GF Dancing Beat0005" x="0" y="329" width="350" height="324" frameWidth="351" frameHeight="324" frameX="0" frameY="0"/>
+    <SubTexture name="GF Dancing Beat0006" x="0" y="329" width="350" height="324" frameWidth="351" frameHeight="324" frameX="0" frameY="0"/>
+    <SubTexture name="GF Dancing Beat0007" x="0" y="329" width="350" height="324" frameWidth="351" frameHeight="324" frameX="0" frameY="0"/>
+    <SubTexture name="GF Dancing Beat0008" x="351" y="329" width="350" height="324" frameWidth="351" frameHeight="324" frameX="0" frameY="0"/>
+    <SubTexture name="GF Dancing Beat0009" x="351" y="329" width="350" height="324" frameWidth="351" frameHeight="324" frameX="0" frameY="0"/>
+    <SubTexture name="GF Dancing Beat0010" x="351" y="329" width="350" height="324" frameWidth="351" frameHeight="324" frameX="0" frameY="0"/>
+    <SubTexture name="GF Dancing Beat0011" x="702" y="329" width="350" height="324" frameWidth="351" frameHeight="324" frameX="0" frameY="0"/>
+    <SubTexture name="GF Dancing Beat0012" x="702" y="329" width="350" height="324" frameWidth="351" frameHeight="324" frameX="0" frameY="0"/>
+    <SubTexture name="GF Dancing Beat0013" x="1053" y="329" width="350" height="319" frameWidth="351" frameHeight="324" frameX="0" frameY="-5"/>
+    <SubTexture name="GF Dancing Beat0014" x="1404" y="329" width="351" height="319" frameWidth="351" frameHeight="324" frameX="0" frameY="-5"/>
+    <SubTexture name="GF Dancing Beat0015" x="0" y="663" width="351" height="319" frameWidth="351" frameHeight="324" frameX="0" frameY="-5"/>
+    <SubTexture name="GF Dancing Beat0016" x="352" y="663" width="350" height="319" frameWidth="351" frameHeight="324" frameX="0" frameY="-5"/>
+    <SubTexture name="GF Dancing Beat0017" x="703" y="663" width="350" height="319" frameWidth="351" frameHeight="324" frameX="0" frameY="-5"/>
+    <SubTexture name="GF Dancing Beat0018" x="1054" y="663" width="350" height="319" frameWidth="351" frameHeight="324" frameX="0" frameY="-5"/>
+    <SubTexture name="GF Dancing Beat0019" x="1405" y="663" width="350" height="320" frameWidth="351" frameHeight="324" frameX="0" frameY="-4"/>
+    <SubTexture name="GF Dancing Beat0020" x="0" y="993" width="350" height="322" frameWidth="351" frameHeight="324" frameX="0" frameY="-2"/>
+    <SubTexture name="GF Dancing Beat0021" x="0" y="993" width="350" height="322" frameWidth="351" frameHeight="324" frameX="0" frameY="-2"/>
+    <SubTexture name="GF Dancing Beat0022" x="0" y="993" width="350" height="322" frameWidth="351" frameHeight="324" frameX="0" frameY="-2"/>
+    <SubTexture name="GF Dancing Beat0023" x="351" y="993" width="350" height="322" frameWidth="351" frameHeight="324" frameX="0" frameY="-2"/>
+    <SubTexture name="GF Dancing Beat0024" x="351" y="993" width="350" height="322" frameWidth="351" frameHeight="324" frameX="0" frameY="-2"/>
+    <SubTexture name="GF Dancing Beat0025" x="351" y="993" width="350" height="322" frameWidth="351" frameHeight="324" frameX="0" frameY="-2"/>
+    <SubTexture name="GF NECKSNAP0000" x="702" y="993" width="349" height="298" frameWidth="349" frameHeight="299" frameX="0" frameY="-1"/>
+    <SubTexture name="GF NECKSNAP0001" x="702" y="993" width="349" height="298" frameWidth="349" frameHeight="299" frameX="0" frameY="-1"/>
+    <SubTexture name="GF NECKSNAP0002" x="1052" y="993" width="349" height="299" frameWidth="349" frameHeight="299" frameX="0" frameY="0"/>
+    <SubTexture name="GF NECKSNAP0003" x="1052" y="993" width="349" height="299" frameWidth="349" frameHeight="299" frameX="0" frameY="0"/>
+    <SubTexture name="GF NECKSNAP0004" x="1402" y="993" width="349" height="298" frameWidth="349" frameHeight="299" frameX="0" frameY="-1"/>
+    <SubTexture name="GF NECKSNAP0005" x="1402" y="993" width="349" height="298" frameWidth="349" frameHeight="299" frameX="0" frameY="-1"/>
+    <SubTexture name="GF NECKSNAP0006" x="0" y="1325" width="349" height="296" frameWidth="349" frameHeight="299" frameX="0" frameY="-3"/>
+    <SubTexture name="GF NECKSNAP0007" x="0" y="1325" width="349" height="296" frameWidth="349" frameHeight="299" frameX="0" frameY="-3"/>
+    <SubTexture name="GF NECKSNAP0008" x="350" y="1325" width="349" height="299" frameWidth="349" frameHeight="299" frameX="0" frameY="0"/>
+    <SubTexture name="GF NECKSNAP0009" x="350" y="1325" width="349" height="299" frameWidth="349" frameHeight="299" frameX="0" frameY="0"/>
+    <SubTexture name="GF NECKSNAP0010" x="700" y="1325" width="349" height="298" frameWidth="349" frameHeight="299" frameX="0" frameY="-1"/>
+    <SubTexture name="GF NECKSNAP0011" x="700" y="1325" width="349" height="298" frameWidth="349" frameHeight="299" frameX="0" frameY="-1"/>
+</TextureAtlas>

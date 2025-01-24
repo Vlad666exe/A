@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MarkovGameOver.png">
+<SubTexture name="YuriWatches Confirm0000" x="0" y="0" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Confirm0001" x="0" y="0" width="555" height="507" frameX="0" frameY="-3" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Confirm0002" x="555" y="0" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Confirm0003" x="555" y="0" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Confirm0004" x="0" y="507" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Confirm0005" x="0" y="507" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Confirm0006" x="555" y="507" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Confirm0007" x="555" y="507" width="555" height="507" frameX="0" frameY="-3" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Confirm0008" x="1110" y="0" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Confirm0009" x="1110" y="0" width="555" height="507" frameX="0" frameY="-1" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Confirm0010" x="1110" y="507" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Confirm0011" x="1110" y="507" width="555" height="507" frameX="0" frameY="-3" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Confirm0012" x="0" y="1014" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Confirm0013" x="0" y="1014" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Confirm0014" x="555" y="1521" width="1" height="1" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Confirm0015" x="555" y="1521" width="1" height="1" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Loop0000" x="555" y="1014" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Loop0001" x="1110" y="1014" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Loop0002" x="1110" y="1014" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Loop0003" x="1110" y="1014" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Loop0004" x="1110" y="1014" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Loop0005" x="1110" y="1014" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Loop0006" x="1110" y="1014" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Loop0007" x="1110" y="1014" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Loop0008" x="1110" y="1014" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Loop0009" x="1665" y="0" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Loop0010" x="1665" y="507" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Loop0011" x="1665" y="1014" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Loop0012" x="1665" y="1014" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Loop0013" x="1665" y="1014" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Loop0014" x="1665" y="1014" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Loop0015" x="1665" y="1014" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+<SubTexture name="YuriWatches Intro0000" x="0" y="1521" width="555" height="507" frameX="0" frameY="-4" frameWidth="555" frameHeight="511" />
+</TextureAtlas>

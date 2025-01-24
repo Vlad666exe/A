@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- OPTIMIZADO POR NOCTROX GATO -->
+<TextureAtlas imagePath="DokiGameOver">
+    <SubTexture name="BF idle dance0000" x="0" y="0" width="204" height="198" frameWidth="212" frameHeight="207" frameX="-6" frameY="-9"/>
+    <SubTexture name="BF idle dance0001" x="0" y="0" width="204" height="198" frameWidth="212" frameHeight="207" frameX="-6" frameY="-9"/>
+    <SubTexture name="BF idle dance0002" x="205" y="0" width="206" height="198" frameWidth="212" frameHeight="207" frameX="-5" frameY="-9"/>
+    <SubTexture name="BF idle dance0003" x="205" y="0" width="206" height="198" frameWidth="212" frameHeight="207" frameX="-5" frameY="-9"/>
+    <SubTexture name="BF idle dance0004" x="412" y="0" width="205" height="201" frameWidth="212" frameHeight="207" frameX="-6" frameY="-6"/>
+    <SubTexture name="BF idle dance0005" x="412" y="0" width="205" height="201" frameWidth="212" frameHeight="207" frameX="-6" frameY="-6"/>
+    <SubTexture name="BF idle dance0006" x="618" y="0" width="206" height="207" frameWidth="212" frameHeight="207" frameX="-6" frameY="0"/>
+    <SubTexture name="BF idle dance0007" x="618" y="0" width="206" height="207" frameWidth="212" frameHeight="207" frameX="-6" frameY="0"/>
+    <SubTexture name="BF idle dance0008" x="825" y="0" width="206" height="207" frameWidth="212" frameHeight="207" frameX="-6" frameY="0"/>
+    <SubTexture name="BF idle dance0009" x="825" y="0" width="206" height="207" frameWidth="212" frameHeight="207" frameX="-6" frameY="0"/>
+    <SubTexture name="BF idle dance0010" x="825" y="0" width="206" height="207" frameWidth="212" frameHeight="207" frameX="-6" frameY="0"/>
+    <SubTexture name="BF idle dance0011" x="825" y="0" width="206" height="207" frameWidth="212" frameHeight="207" frameX="-6" frameY="0"/>
+    <SubTexture name="BF idle dance0012" x="825" y="0" width="206" height="207" frameWidth="212" frameHeight="207" frameX="-6" frameY="0"/>
+    <SubTexture name="BF idle dance0013" x="825" y="0" width="206" height="207" frameWidth="212" frameHeight="207" frameX="-6" frameY="0"/>
+    <SubTexture name="DokiGameOverConfirm0000" x="0" y="217" width="157" height="265" frameWidth="167" frameHeight="265" frameX="-5" frameY="0"/>
+    <SubTexture name="DokiGameOverConfirm0001" x="0" y="217" width="157" height="265" frameWidth="167" frameHeight="265" frameX="-5" frameY="0"/>
+    <SubTexture name="DokiGameOverConfirm0002" x="158" y="217" width="167" height="210" frameWidth="167" frameHeight="265" frameX="0" frameY="-55"/>
+    <SubTexture name="DokiGameOverConfirm0003" x="158" y="217" width="167" height="210" frameWidth="167" frameHeight="265" frameX="0" frameY="-55"/>
+    <SubTexture name="DokiGameOverConfirm0004" x="326" y="217" width="98" height="198" frameWidth="167" frameHeight="265" frameX="-35" frameY="-67"/>
+    <SubTexture name="DokiGameOverConfirm0005" x="326" y="217" width="98" height="198" frameWidth="167" frameHeight="265" frameX="-35" frameY="-67"/>
+    <SubTexture name="DokiGameOverConfirm0006" x="425" y="217" width="98" height="119" frameWidth="167" frameHeight="265" frameX="-35" frameY="-146"/>
+    <SubTexture name="DokiGameOverConfirm0007" x="425" y="217" width="98" height="119" frameWidth="167" frameHeight="265" frameX="-35" frameY="-146"/>
+    <SubTexture name="DokiGameOverConfirm0008" x="425" y="217" width="98" height="119" frameWidth="167" frameHeight="265" frameX="-35" frameY="-146"/>
+    <SubTexture name="DokiGameOverConfirm0009" x="425" y="217" width="98" height="119" frameWidth="167" frameHeight="265" frameX="-35" frameY="-146"/>
+    <SubTexture name="DokiGameOverIntro0000" x="524" y="217" width="158" height="197" frameWidth="176" frameHeight="282" frameX="-8" frameY="-74"/>
+    <SubTexture name="DokiGameOverIntro0001" x="524" y="217" width="158" height="197" frameWidth="176" frameHeight="282" frameX="-8" frameY="-74"/>
+    <SubTexture name="DokiGameOverIntro0002" x="683" y="217" width="164" height="204" frameWidth="176" frameHeight="282" frameX="-5" frameY="-70"/>
+    <SubTexture name="DokiGameOverIntro0003" x="683" y="217" width="164" height="204" frameWidth="176" frameHeight="282" frameX="-5" frameY="-70"/>
+    <SubTexture name="DokiGameOverIntro0004" x="848" y="217" width="172" height="214" frameWidth="176" frameHeight="282" frameX="-1" frameY="-65"/>
+    <SubTexture name="DokiGameOverIntro0005" x="848" y="217" width="172" height="214" frameWidth="176" frameHeight="282" frameX="-1" frameY="-65"/>
+    <SubTexture name="DokiGameOverIntro0006" x="848" y="217" width="172" height="214" frameWidth="176" frameHeight="282" frameX="-1" frameY="-65"/>
+    <SubTexture name="DokiGameOverIntro0007" x="1021" y="217" width="99" height="128" frameWidth="176" frameHeight="282" frameX="-37" frameY="-137"/>
+    <SubTexture name="DokiGameOverIntro0008" x="1021" y="217" width="99" height="128" frameWidth="176" frameHeight="282" frameX="-37" frameY="-137"/>
+    <SubTexture name="DokiGameOverIntro0009" x="0" y="492" width="99" height="183" frameWidth="176" frameHeight="282" frameX="-37" frameY="-82"/>
+    <SubTexture name="DokiGameOverIntro0010" x="0" y="492" width="99" height="183" frameWidth="176" frameHeight="282" frameX="-37" frameY="-82"/>
+    <SubTexture name="DokiGameOverIntro0011" x="100" y="492" width="99" height="207" frameWidth="176" frameHeight="282" frameX="-37" frameY="-58"/>
+    <SubTexture name="DokiGameOverIntro0012" x="100" y="492" width="99" height="207" frameWidth="176" frameHeight="282" frameX="-37" frameY="-58"/>
+    <SubTexture name="DokiGameOverIntro0013" x="200" y="492" width="99" height="208" frameWidth="176" frameHeight="282" frameX="-37" frameY="-57"/>
+    <SubTexture name="DokiGameOverIntro0014" x="200" y="492" width="99" height="208" frameWidth="176" frameHeight="282" frameX="-37" frameY="-57"/>
+    <SubTexture name="DokiGameOverIntro0015" x="200" y="492" width="99" height="208" frameWidth="176" frameHeight="282" frameX="-37" frameY="-57"/>
+    <SubTexture name="DokiGameOverIntro0016" x="200" y="492" width="99" height="208" frameWidth="176" frameHeight="282" frameX="-37" frameY="-57"/>
+    <SubTexture name="DokiGameOverIntro0017" x="200" y="492" width="99" height="208" frameWidth="176" frameHeight="282" frameX="-37" frameY="-57"/>
+    <SubTexture name="DokiGameOverIntro0018" x="200" y="492" width="99" height="208" frameWidth="176" frameHeight="282" frameX="-37" frameY="-57"/>
+    <SubTexture name="DokiGameOverIntro0019" x="300" y="492" width="99" height="209" frameWidth="176" frameHeight="282" frameX="-37" frameY="-56"/>
+    <SubTexture name="DokiGameOverIntro0020" x="300" y="492" width="99" height="209" frameWidth="176" frameHeight="282" frameX="-37" frameY="-56"/>
+    <SubTexture name="DokiGameOverIntro0021" x="400" y="492" width="99" height="228" frameWidth="176" frameHeight="282" frameX="-37" frameY="-37"/>
+    <SubTexture name="DokiGameOverIntro0022" x="400" y="492" width="99" height="228" frameWidth="176" frameHeight="282" frameX="-37" frameY="-37"/>
+    <SubTexture name="DokiGameOverIntro0023" x="500" y="492" width="99" height="230" frameWidth="176" frameHeight="282" frameX="-37" frameY="-35"/>
+    <SubTexture name="DokiGameOverIntro0024" x="500" y="492" width="99" height="230" frameWidth="176" frameHeight="282" frameX="-37" frameY="-35"/>
+    <SubTexture name="DokiGameOverIntro0025" x="600" y="492" width="149" height="113" frameWidth="176" frameHeight="282" frameX="-12" frameY="-152"/>
+    <SubTexture name="DokiGameOverIntro0026" x="600" y="492" width="149" height="113" frameWidth="176" frameHeight="282" frameX="-12" frameY="-152"/>
+    <SubTexture name="DokiGameOverIntro0027" x="750" y="492" width="101" height="119" frameWidth="176" frameHeight="282" frameX="-45" frameY="-132"/>
+    <SubTexture name="DokiGameOverIntro0028" x="750" y="492" width="101" height="119" frameWidth="176" frameHeight="282" frameX="-45" frameY="-132"/>
+    <SubTexture name="DokiGameOverIntro0029" x="852" y="492" width="102" height="124" frameWidth="176" frameHeight="282" frameX="-50" frameY="-140"/>
+    <SubTexture name="DokiGameOverIntro0030" x="852" y="492" width="102" height="124" frameWidth="176" frameHeight="282" frameX="-50" frameY="-140"/>
+    <SubTexture name="DokiGameOverIntro0031" x="955" y="492" width="102" height="120" frameWidth="176" frameHeight="282" frameX="-27" frameY="-141"/>
+    <SubTexture name="DokiGameOverIntro0032" x="955" y="492" width="102" height="120" frameWidth="176" frameHeight="282" frameX="-27" frameY="-141"/>
+    <SubTexture name="DokiGameOverIntro0033" x="0" y="732" width="99" height="120" frameWidth="176" frameHeight="282" frameX="-38" frameY="-145"/>
+    <SubTexture name="DokiGameOverIntro0034" x="0" y="732" width="99" height="120" frameWidth="176" frameHeight="282" frameX="-38" frameY="-145"/>
+    <SubTexture name="DokiGameOverIntro0035" x="100" y="732" width="98" height="120" frameWidth="167" frameHeight="265" frameX="-37" frameY="-145"/>
+    <SubTexture name="DokiGameOverIntro0036" x="100" y="732" width="98" height="120" frameWidth="167" frameHeight="265" frameX="-37" frameY="-145"/>
+    <SubTexture name="DokiGameOverIntro0037" x="100" y="732" width="98" height="120" frameWidth="167" frameHeight="265" frameX="-37" frameY="-145"/>
+    <SubTexture name="DokiGameOverIntro0038" x="100" y="732" width="98" height="120" frameWidth="167" frameHeight="265" frameX="-37" frameY="-145"/>
+    <SubTexture name="DokiGameOverIntro0039" x="199" y="732" width="99" height="199" frameWidth="176" frameHeight="282" frameX="-37" frameY="-66"/>
+    <SubTexture name="DokiGameOverIntro0040" x="199" y="732" width="99" height="199" frameWidth="176" frameHeight="282" frameX="-37" frameY="-66"/>
+    <SubTexture name="DokiGameOverIntro0041" x="299" y="732" width="133" height="210" frameWidth="176" frameHeight="282" frameX="-20" frameY="-55"/>
+    <SubTexture name="DokiGameOverIntro0042" x="299" y="732" width="133" height="210" frameWidth="176" frameHeight="282" frameX="-20" frameY="-55"/>
+    <SubTexture name="DokiGameOverIntro0043" x="433" y="732" width="151" height="265" frameWidth="176" frameHeight="282" frameX="-11" frameY="0"/>
+    <SubTexture name="DokiGameOverIntro0044" x="433" y="732" width="151" height="265" frameWidth="176" frameHeight="282" frameX="-11" frameY="0"/>
+    <SubTexture name="DokiGameOverIntro0045" x="585" y="732" width="159" height="255" frameWidth="176" frameHeight="282" frameX="-7" frameY="-10"/>
+    <SubTexture name="DokiGameOverIntro0046" x="585" y="732" width="159" height="255" frameWidth="176" frameHeight="282" frameX="-7" frameY="-10"/>
+    <SubTexture name="DokiGameOverIntro0047" x="745" y="732" width="151" height="259" frameWidth="176" frameHeight="282" frameX="-11" frameY="-6"/>
+    <SubTexture name="DokiGameOverIntro0048" x="745" y="732" width="151" height="259" frameWidth="176" frameHeight="282" frameX="-11" frameY="-6"/>
+    <SubTexture name="DokiGameOverIntro0049" x="745" y="732" width="151" height="259" frameWidth="176" frameHeight="282" frameX="-11" frameY="-6"/>
+    <SubTexture name="DokiGameOverIntro0050" x="745" y="732" width="151" height="259" frameWidth="176" frameHeight="282" frameX="-11" frameY="-6"/>
+    <SubTexture name="DokiGameOverIntro0051" x="745" y="732" width="151" height="259" frameWidth="176" frameHeight="282" frameX="-11" frameY="-6"/>
+    <SubTexture name="DokiGameOverIntro0052" x="745" y="732" width="151" height="259" frameWidth="176" frameHeight="282" frameX="-11" frameY="-6"/>
+    <SubTexture name="DokiGameOverIntro0053" x="745" y="732" width="151" height="259" frameWidth="176" frameHeight="282" frameX="-11" frameY="-6"/>
+    <SubTexture name="DokiGameOverIntro0054" x="745" y="732" width="151" height="259" frameWidth="176" frameHeight="282" frameX="-11" frameY="-6"/>
+    <SubTexture name="DokiGameOverLoop0000" x="897" y="732" width="150" height="258" frameWidth="176" frameHeight="282" frameX="0" frameY="0"/>
+    <SubTexture name="DokiGameOverLoop0001" x="897" y="732" width="150" height="258" frameWidth="176" frameHeight="282" frameX="0" frameY="0"/>
+</TextureAtlas>
