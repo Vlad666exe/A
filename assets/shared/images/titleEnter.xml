@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- OPTIMIZADO POR NOCTROX GATO -->
+<TextureAtlas imagePath="titleEnter">
+    <SubTexture name="ENTER PRESSED0000" x="0" y="10" width="905" height="86" frameWidth="918" frameHeight="96" frameX="-7" frameY="-10"/>
+    <SubTexture name="ENTER PRESSED0001" x="0" y="106" width="911" height="86" frameWidth="918" frameHeight="96" frameX="-7" frameY="-10"/>
+    <SubTexture name="Press Enter to Begin0000" x="0" y="202" width="905" height="86" frameWidth="918" frameHeight="96" frameX="-7" frameY="-10"/>
+</TextureAtlas>
