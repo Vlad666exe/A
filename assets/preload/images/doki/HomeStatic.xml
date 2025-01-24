@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="HomeStatic.png">
+<SubTexture name="HomeStatic0000" x="0" y="0" width="512" height="289" frameX="0" frameY="0" frameWidth="512" frameHeight="289" />
+<SubTexture name="HomeStatic0001" x="0" y="0" width="512" height="289" frameX="0" frameY="0" frameWidth="512" frameHeight="289" />
+<SubTexture name="HomeStatic0002" x="512" y="0" width="512" height="289" frameX="0" frameY="0" frameWidth="512" frameHeight="289" />
+<SubTexture name="HomeStatic0003" x="512" y="0" width="512" height="289" frameX="0" frameY="0" frameWidth="512" frameHeight="289" />
+<SubTexture name="HomeStatic0004" x="0" y="289" width="512" height="289" frameX="0" frameY="0" frameWidth="512" frameHeight="289" />
+<SubTexture name="HomeStatic0005" x="0" y="289" width="512" height="289" frameX="0" frameY="0" frameWidth="512" frameHeight="289" />
+<SubTexture name="HomeStatic0006" x="512" y="289" width="512" height="289" frameX="0" frameY="0" frameWidth="512" frameHeight="289" />
+<SubTexture name="HomeStatic0007" x="512" y="289" width="512" height="289" frameX="0" frameY="0" frameWidth="512" frameHeight="289" />
+<SubTexture name="HomeStatic0008" x="0" y="578" width="512" height="288" frameX="0" frameY="0" frameWidth="512" frameHeight="288" />
+<SubTexture name="HomeStatic0009" x="0" y="578" width="512" height="288" frameX="0" frameY="0" frameWidth="512" frameHeight="288" />
+<SubTexture name="HomeStatic0010" x="512" y="578" width="512" height="288" frameX="0" frameY="0" frameWidth="512" frameHeight="288" />
+<SubTexture name="HomeStatic0011" x="512" y="578" width="512" height="288" frameX="0" frameY="0" frameWidth="512" frameHeight="288" />
+</TextureAtlas>
