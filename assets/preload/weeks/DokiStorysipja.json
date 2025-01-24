@@ -1,0 +1,50 @@
+{
+	"storyName": "",
+	"difficulties": "Hard",
+	"hideFreeplay": true,
+	"weekBackground": "DokiHard",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"STAGNANT",
+			"sayorisad",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"MARKOV",
+			"yuri-crazy",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"HOME",
+			"glitchnatsuki",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"FondoBG",
+		"HappyBG",
+		"Dokies"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "BAD END"
+}

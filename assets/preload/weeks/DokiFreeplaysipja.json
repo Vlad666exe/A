@@ -1,0 +1,50 @@
+{
+	"storyName": "",
+	"difficulties": "Hard, Unfair",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"STAGNANT",
+			"sayorisad",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"MARKOV",
+			"yuri-crazy",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"HOME",
+			"glitchnatsuki",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"steven",
+		"menuInterference",
+		"steven_logo"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "BAD END"
+}
