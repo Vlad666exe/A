@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ClosetYuriIdle"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ClosetYuriRight"
+		},
+		{
+			"offsets": [
+				0,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ClosetYuriUp"
+		},
+		{
+			"offsets": [
+				-1,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ClosetYuriDown"
+		},
+		{
+			"offsets": [
+				7,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ClosetYuriLeft"
+		},
+		{
+			"offsets": [
+				5,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "appear",
+			"indices": [],
+			"name": "ClosetYuriIntro"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				2
+			],
+			"anim": "leaves",
+			"fps": 24,
+			"name": "ClosetYuriOutro",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Yuri_Closet",
+	"position": [
+		170,
+		240
+	],
+	"healthicon": "yuri-closet",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		30
+	],
+	"camera_position": [
+		-250,
+		-161
+	],
+	"sing_duration": 6,
+	"scale": 2.2
+}

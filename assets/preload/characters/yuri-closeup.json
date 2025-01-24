@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 26,
+			"name": "YuriIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				0
+			],
+			"anim": "singUP",
+			"fps": 26,
+			"name": "YuriUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 26,
+			"name": "YuriDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 26,
+			"name": "YuriLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 26,
+			"name": "YuriRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				410,
+				190
+			],
+			"anim": "singDOWN-alt",
+			"fps": 26,
+			"name": "YuriFirstPersonJumpscare",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Yuri_Doesnt_Understand_Personal_Space",
+	"position": [
+		100,
+		120
+	],
+	"healthicon": "yuri-crazy",
+	"flip_x": false,
+	"healthbar_colors": [
+		158,
+		114,
+		210
+	],
+	"camera_position": [
+		-490,
+		-81
+	],
+	"sing_duration": 9,
+	"scale": 2
+}

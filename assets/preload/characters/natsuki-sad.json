@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SadNat Idle"
+		},
+		{
+			"offsets": [
+				28,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SadNat Left"
+		},
+		{
+			"offsets": [
+				-27,
+				-48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SadNat Right"
+		},
+		{
+			"offsets": [
+				29,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SadNat Down"
+		},
+		{
+			"offsets": [
+				96,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SadNat Up"
+		},
+		{
+			"offsets": [
+				212,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "eyes",
+			"indices": [],
+			"name": "SadNat EyeBurst"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Doki_NatSad_Assets",
+	"position": [
+		100,
+		285
+	],
+	"healthicon": "glitchnatsuki",
+	"flip_x": false,
+	"healthbar_colors": [
+		192,
+		89,
+		131
+	],
+	"camera_position": [
+		-110,
+		-60
+	],
+	"sing_duration": 6,
+	"scale": 2
+}

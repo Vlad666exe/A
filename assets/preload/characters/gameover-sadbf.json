@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				5
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF die confirm",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				21,
+				5
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF die loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				38
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF die intro",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SadBFDies_Assets",
+	"position": [
+		170,
+		450
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		160,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 2
+}
