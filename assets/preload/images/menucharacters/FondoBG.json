@@ -1,0 +1,11 @@
+{
+	"idle_anim": "idle",
+	"image": "FondoBG",
+	"position": [
+		780,
+		350
+	],
+	"flipX": false,
+	"scale": 0.55,
+	"confirm_anim": "idle"
+}
