@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- OPTIMIZADO POR The Spring -->
+<TextureAtlas imagePath="staticNotes">
+    <SubTexture name="blue0000" x="0" y="0" width="166" height="160" frameWidth="166" frameHeight="163" frameX="0" frameY="0"/>
+    <SubTexture name="green0000" x="167" y="0" width="163" height="163" frameWidth="166" frameHeight="163" frameX="0" frameY="0"/>
+    <SubTexture name="purple0000" x="0" y="173" width="163" height="163" frameWidth="163" frameHeight="166" frameX="0" frameY="0"/>
+    <SubTexture name="red0000" x="164" y="173" width="163" height="166" frameWidth="163" frameHeight="166" frameX="0" frameY="0"/>
+</TextureAtlas>

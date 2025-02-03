@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- OPTIMIZADO POR The Spring -->
+<TextureAtlas imagePath="PhantomNote">
+    <SubTexture name="blue hold end0000" x="0" y="0" width="50" height="64" frameWidth="50" frameHeight="64" frameX="0" frameY="0"/>
+    <SubTexture name="blue hold piece0000" x="51" y="0" width="50" height="44" frameWidth="50" frameHeight="44" frameX="0" frameY="0"/>
+    <SubTexture name="blue0000" x="102" y="0" width="188" height="187" frameWidth="196" frameHeight="193" frameX="-2" frameY="-1"/>
+    <SubTexture name="green hold end0000" x="291" y="0" width="50" height="64" frameWidth="50" frameHeight="64" frameX="0" frameY="0"/>
+    <SubTexture name="green hold piece0000" x="342" y="0" width="50" height="44" frameWidth="50" frameHeight="44" frameX="0" frameY="0"/>
+    <SubTexture name="green0000" x="393" y="0" width="177" height="176" frameWidth="184" frameHeight="181" frameX="-2" frameY="-1"/>
+    <SubTexture name="pruple end hold0000" x="0" y="197" width="50" height="64" frameWidth="50" frameHeight="64" frameX="0" frameY="0"/>
+    <SubTexture name="purple hold piece0000" x="51" y="197" width="50" height="44" frameWidth="50" frameHeight="44" frameX="0" frameY="0"/>
+    <SubTexture name="purple0000" x="102" y="197" width="182" height="183" frameWidth="187" frameHeight="190" frameX="-1" frameY="-2"/>
+    <SubTexture name="red hold end0000" x="285" y="197" width="50" height="64" frameWidth="50" frameHeight="64" frameX="0" frameY="0"/>
+    <SubTexture name="red hold piece0000" x="336" y="197" width="50" height="44" frameWidth="50" frameHeight="44" frameX="0" frameY="0"/>
+    <SubTexture name="red0000" x="387" y="197" width="187" height="188" frameWidth="193" frameHeight="196" frameX="-1" frameY="-3"/>
+</TextureAtlas>
