@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- OPTIMIZADO POR The Spring -->
+<TextureAtlas imagePath="Sunky">
+    <SubTexture name="sunkyDOWN instance 10000" x="0" y="0" width="454" height="387" frameWidth="454" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyDOWN instance 10001" x="455" y="0" width="454" height="387" frameWidth="454" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyDOWN instance 10002" x="910" y="0" width="454" height="387" frameWidth="454" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyDOWN instance 10003" x="1365" y="0" width="454" height="387" frameWidth="454" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyDOWN instance 10004" x="1820" y="0" width="454" height="387" frameWidth="454" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyIDLE instance 10000" x="2275" y="0" width="454" height="387" frameWidth="459" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyIDLE instance 10001" x="0" y="397" width="454" height="387" frameWidth="459" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyIDLE instance 10002" x="455" y="397" width="454" height="387" frameWidth="459" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyIDLE instance 10003" x="910" y="397" width="454" height="387" frameWidth="459" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyIDLE instance 10004" x="1365" y="397" width="454" height="387" frameWidth="459" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyIDLE instance 10005" x="1820" y="397" width="454" height="387" frameWidth="459" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyIDLE instance 10006" x="2275" y="397" width="454" height="387" frameWidth="459" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyIDLE instance 10007" x="0" y="794" width="454" height="387" frameWidth="459" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyIDLE instance 10008" x="455" y="794" width="454" height="387" frameWidth="459" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyIDLE instance 10009" x="910" y="794" width="454" height="387" frameWidth="459" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyIDLE instance 10010" x="1365" y="794" width="454" height="387" frameWidth="459" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyIDLE instance 10011" x="1820" y="794" width="454" height="387" frameWidth="459" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyLEFT instance 10000" x="2275" y="794" width="454" height="386" frameWidth="454" frameHeight="388" frameX="0" frameY="-2"/>
+    <SubTexture name="sunkyLEFT instance 10001" x="0" y="1191" width="454" height="386" frameWidth="454" frameHeight="388" frameX="0" frameY="-2"/>
+    <SubTexture name="sunkyLEFT instance 10002" x="455" y="1191" width="454" height="386" frameWidth="454" frameHeight="388" frameX="0" frameY="-2"/>
+    <SubTexture name="sunkyLEFT instance 10003" x="910" y="1191" width="454" height="386" frameWidth="454" frameHeight="388" frameX="0" frameY="-2"/>
+    <SubTexture name="sunkyLEFT instance 10004" x="1365" y="1191" width="454" height="386" frameWidth="454" frameHeight="388" frameX="0" frameY="-2"/>
+    <SubTexture name="sunkyRIGHT instance 10000" x="1820" y="1191" width="454" height="387" frameWidth="454" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyRIGHT instance 10001" x="2275" y="1191" width="454" height="387" frameWidth="454" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyRIGHT instance 10002" x="0" y="1588" width="454" height="387" frameWidth="454" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyRIGHT instance 10003" x="455" y="1588" width="454" height="387" frameWidth="454" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyRIGHT instance 10004" x="910" y="1588" width="454" height="387" frameWidth="454" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyUP instance 10000" x="1365" y="1588" width="454" height="387" frameWidth="454" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyUP instance 10001" x="1820" y="1588" width="454" height="387" frameWidth="454" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyUP instance 10002" x="2275" y="1588" width="454" height="387" frameWidth="454" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyUP instance 10003" x="0" y="1985" width="454" height="387" frameWidth="454" frameHeight="387" frameX="0" frameY="0"/>
+    <SubTexture name="sunkyUP instance 10004" x="455" y="1985" width="454" height="387" frameWidth="454" frameHeight="387" frameX="0" frameY="0"/>
+</TextureAtlas>
