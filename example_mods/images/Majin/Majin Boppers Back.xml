@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- OPTIMIZADO POR The Spring -->
+<TextureAtlas imagePath="Majin Boppers Back">
+    <SubTexture name="MajinBop2 instance 10000" x="0" y="0" width="599" height="437" frameWidth="600" frameHeight="437" frameX="0" frameY="0"/>
+    <SubTexture name="MajinBop2 instance 10001" x="0" y="0" width="599" height="437" frameWidth="600" frameHeight="437" frameX="0" frameY="0"/>
+    <SubTexture name="MajinBop2 instance 10002" x="600" y="0" width="600" height="437" frameWidth="600" frameHeight="437" frameX="0" frameY="0"/>
+    <SubTexture name="MajinBop2 instance 10003" x="600" y="0" width="600" height="437" frameWidth="600" frameHeight="437" frameX="0" frameY="0"/>
+    <SubTexture name="MajinBop2 instance 10004" x="0" y="447" width="600" height="437" frameWidth="600" frameHeight="437" frameX="0" frameY="0"/>
+    <SubTexture name="MajinBop2 instance 10005" x="0" y="447" width="600" height="437" frameWidth="600" frameHeight="437" frameX="0" frameY="0"/>
+    <SubTexture name="MajinBop2 instance 10006" x="601" y="447" width="599" height="437" frameWidth="600" frameHeight="437" frameX="0" frameY="0"/>
+    <SubTexture name="MajinBop2 instance 10007" x="601" y="447" width="599" height="437" frameWidth="600" frameHeight="437" frameX="0" frameY="0"/>
+    <SubTexture name="MajinBop2 instance 10008" x="0" y="0" width="599" height="437" frameWidth="600" frameHeight="437" frameX="0" frameY="0"/>
+    <SubTexture name="MajinBop2 instance 10009" x="0" y="0" width="599" height="437" frameWidth="600" frameHeight="437" frameX="0" frameY="0"/>
+</TextureAtlas>
